@@ -20,9 +20,9 @@ export enum Rounding {
   ROUND_UP
 }
 
-export const FACTORY_ADDRESS = '0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32' //TODO Need to change this. This address should be same for both testnet and MATIC
+export const FACTORY_ADDRESS = '0xCf083Be4164828f00cAE704EC15a36D711491284' //TODO Need to change this. This address should be same for both testnet and MATIC
 
-export const INIT_CODE_HASH = '0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f'
+export const INIT_CODE_HASH = '0x511f0f358fe530cda0859ec20becf391718fdf5a329be02f4c95361f3d6a42d8'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
