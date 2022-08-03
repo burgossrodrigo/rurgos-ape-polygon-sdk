@@ -1,16 +1,16 @@
 {
-  "name": "@rurgos/quickswap-sdk",
+  "name": "@rurgos/ape-polygon-sdk",
   "license": "MIT",
-  "version": "1.0.3",
-  "description": "🛠 An SDK for building applications on top of Quickswap.",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on top of Apeswap on polygon.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/burgossrodrigo/rurgos-quickswap-sdk.git",
+  "repository": "https://github.com/burgossrodrigo/rurgos-ape-polygon-sdk.git",
   "keywords": [
-    "quickswap",
+    "apeswap",
     "matic",
     "ethereum"
   ],
